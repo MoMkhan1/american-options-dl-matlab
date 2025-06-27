@@ -43,6 +43,14 @@ See [`requirements.txt`](requirements.txt)
 
 ---
 
+## 📄 Thesis
+
+This repository accompanies my master’s thesis:
+
+**Pricing and Hedging American-Style Options with Deep Learning: Algorithmic Implementation**  
+[🔗 Available via Uppsala University Repository](https://uu.diva-portal.org/smash/record.jsf?dswid=1189&pid=diva2%3A1742682&c=1&searchType=SIMPLE&language=en&query=Mohammed+Moniruzzaman+khan&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate)  
+U.U.D.M. Project Report 2023:1, Uppsala University
+
 ## 🧠 Thesis Summary
 
 The thesis proposes a deep learning approach for solving optimal stopping problems in financial mathematics. American-style options are priced by simulating asset price paths and using a deep neural network to approximate continuation values. The algorithm provides both a price estimate and a verified lower bound.
