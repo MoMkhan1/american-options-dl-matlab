@@ -1,0 +1,5 @@
+MATLAB R2023a or later
+
+Required Toolboxes:
+- Deep Learning Toolbox
+- Statistics and Machine Learning Toolbox
