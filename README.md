@@ -61,5 +61,11 @@ The thesis proposes a deep learning approach for solving optimal stopping proble
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
+## Connect with Me
+
+🔗 [LinkedIn – Mohammed Moniruzzaman Khan](https://www.linkedin.com/in/mohammed-moniruzzaman-khan)
+
+
+
 
 
