@@ -1,6 +1,8 @@
 # American Options Pricing with Deep Learning (MATLAB)
+This repository implements a deep learning framework for pricing American-style options using Monte Carlo simulation and neural network-based approximation of continuation values. The project accompanies the master’s thesis:
 
-This repository contains MATLAB code for pricing American-style options using deep learning techniques. The implementation is based on the master's thesis:
+“Pricing and Hedging American-Style Options with Deep Learning: Algorithmic Implementation” (Uppsala University).
+
 
 📄 **Master_Thesis_Khan.pdf** (located in the `/thesis` folder)
 
@@ -63,17 +65,12 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ## 🛠️ Skills
 
-**Programming Languages:** Python, Java, C, MATLAB, SpagoBI  
-**Scripting Languages:** JavaScript  
-**Frameworks:** Spring, Grails  
-**Developer Tools:** IntelliJ IDEA, NetBeans IDE, Eclipse IDE  
-**Web Technologies:** JSP, Apache  
-**Databases:** PostgreSQL, ODBC, Oracle10g, MySQL  
+Quantitative Finance • Stochastic Processes • Monte Carlo Simulation • Optimal Stopping Theory • Geometric Brownian Motion • Deep Learning • Neural Networks • MATLAB Programming • Computational Finance
 
 ---
 
 ## Connect with Me
-
+ Github : https://github.com/MoMkhan1/american-options-dl-matlab
 🔗 [LinkedIn – Mohammed Moniruzzaman Khan](https://www.linkedin.com/in/mohammed-moniruzzaman-khan)
 
 
